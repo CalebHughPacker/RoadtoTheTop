@@ -10,7 +10,7 @@ function setVideo(videoPath, thumbnail){
 }
 
 function init(){
-    let videoPath = "./roadtothetop.mp4";
+    let videoPath = "https://dl.dropboxusercontent.com/scl/fi/dayve2ff0ejc2hduvj9bn/roadtothetop.mp4?rlkey=27vo5vf57h4kcvrijb8f8v9zz&st=hgk9xe2g";
     let thumbnail = "./roadtothetop.jpg";
     setVideo(videoPath, thumbnail);
 }
